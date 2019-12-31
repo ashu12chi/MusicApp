@@ -4,3 +4,4 @@
 A beatbox pattern generating app where you can also save your prepared pattern in MySQL database<br>
 ## Resources
 1. [MIDI package i Java](https://docs.oracle.com/javase/tutorial/sound/overview-MIDI.html)
+2. [MySQL](https://www.mysql.com/)
