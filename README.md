@@ -5,3 +5,4 @@ A beatbox pattern generating app where you can also save your prepared pattern i
 ## Resources
 1. [MIDI package in Java](https://docs.oracle.com/javase/tutorial/sound/overview-MIDI.html)
 2. [MySQL](https://www.mysql.com/)
+3. [Jdk 1.8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
